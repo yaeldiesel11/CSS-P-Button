@@ -1,0 +1,47 @@
+.search,
+.add,
+.create {
+    display: block;
+    margin: 60px 50px;
+}
+
+.search {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    height: fit-content;
+    background-color: rgb(248, 245, 245);
+    color: cadetblue;
+    padding: 5px 90px;
+    border: solid;
+    border-color: cadetblue;
+    border-radius: 30px;
+    box-shadow: none;
+}
+
+.add {
+    background-color: cadetblue;
+    border: none;
+    border-radius: 50%;
+    height: fit-content;
+    width: fit-content;
+    color: white;
+    padding: 10px 30px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 60px;
+}
+
+.create {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: normal;
+    font-size: 20px;
+    height: 50px;
+    width: fit-content;
+    padding: 5px 70px;
+    color: white;
+    background-color: rgb(20, 94, 230);
+    border: solid;
+    border-color: black;
+    box-shadow: 3px 5px black;
+}
